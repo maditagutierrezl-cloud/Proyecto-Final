@@ -1,0 +1,8 @@
+Proyecto Final
+Nombre Estudiante:
+- Madain Damaris Gutierrez Loayza
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run dev
+3) npm run backend

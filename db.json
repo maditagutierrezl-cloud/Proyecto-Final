@@ -1,0 +1,62 @@
+{
+  "mascotas": [
+    {
+      "id": "1",
+      "nombre": "Luna",
+      "especie": "Perro",
+      "edad": 3,
+      "propietario": "Carlos Pérez"
+    },
+    {
+      "id": "2",
+      "nombre": "Mishi",
+      "especie": "Gato",
+      "edad": 2,
+      "propietario": "Ana Gómez"
+    },
+    {
+      "nombre": "Pelusa",
+      "especie": "Gato",
+      "edad": 1,
+      "propietario": "Abigail Gutierrez",
+      "id": "MH2Bx-O"
+    },
+    {
+      "nombre": "Docky",
+      "especie": "Perro",
+      "edad": 3,
+      "propietario": "Arely Loayza",
+      "id": "UqALlI0"
+    },
+    {
+      "id": "5KdYjmD",
+      "nombre": "Jasan",
+      "especie": "Perro",
+      "edad": 12,
+      "propietario": "Lucio Gutierrez"
+    }
+  ],
+  "citas": [
+    {
+      "id": "101",
+      "fecha": "2026-10-01T10:00",
+      "motivo": "Vacunación anual",
+      "estado": "Pendiente",
+      "mascotaId": "1"
+    },
+    {
+      "id": "102",
+      "fecha": "2026-10-02T15:30",
+      "motivo": "Chequeo general",
+      "estado": "Confirmada",
+      "mascotaId": "2"
+    },
+    {
+      "fecha": "2026-09-30T00:15",
+      "motivo": "Vacunacion",
+      "estado": "Confirmada",
+      "mascotaId": 5,
+      "id": "9sBtm6t"
+    }
+  ]
+}
